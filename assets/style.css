@@ -1,0 +1,57 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Header{
+    margin-left: 150px;
+}
+.Texto{
+    margin-top: 5%;
+    text-align: left;
+}
+
+#img1{
+    display: block;
+    width:87.5%; height:70%
+}
+#Logo{
+    width: 10%;
+    position: absolute;
+    left: 80%;
+    transform: translate(-50%, -70%);
+    
+}
+.Ue{
+    text-align: center;
+    margin-right: 150px;
+    margin-top: 0.3%;
+    background-color: black;
+    color: white;
+}
+.Mission{   
+    transform: translate(8%, -80%);
+}
+.To{
+    transform: translate(8%,-60%); 
+}
+
+.Gi{
+    transform: translate(8%,-90%); 
+}
+.The{
+    transform: translate(8%,-40%);    
+}
+.Email{
+    transform: translate(19%,-90%);
+}
+.We{
+    transform: translate(19%,-10%);
+}
+.Contact{
+    position: absolute;
+    transform: translate(-165%,300%);
+}
+
+
