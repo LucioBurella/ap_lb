@@ -1,0 +1,66 @@
+*{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.Titulo{
+   text-align: center;
+}
+table {
+   
+    width: 50%;
+    margin-left: 25%;
+   background-color: aqua;
+    
+   
+ }
+ th, td {
+    width: 10%;
+    background-color: aliceblue;
+    text-align: center;
+    padding-top: 15px;
+  padding-bottom: 5px;
+  padding-left: 1.5px;
+  padding-right: 1.5px;  
+ }
+.info{
+margin: auto;
+width: 80%;
+}
+.Justificado{
+    text-align: center;
+}
+.D{
+    margin-left: 15%;   
+    width: 40%;
+}
+.Parrafo{
+    justify-content: center;
+    width: 50%;
+    margin-left: 20%;
+}
+.P_P{
+   margin-top: 3%;
+    margin-left: 15%;
+}
+.Subrayado{
+    margin-top: 2%;
+    text-decoration: underline black; 
+}
+.Width{
+    margin-top: 3%;
+}
+
+span{
+    font-weight: bold;
+}
+p{
+    margin-top: 3%;
+}
+.Orden{
+    display: flex;
+    justify-content:flex-end;
+}
