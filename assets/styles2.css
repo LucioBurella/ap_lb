@@ -10,7 +10,7 @@
    text-align: center;
 }
 table {
-   
+    justify-content: center;
     width: 50%;
     margin-left: 25%;
    background-color: aqua;
